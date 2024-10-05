@@ -20,8 +20,6 @@
 - 🌐 **Busca de Dados com AJAX**  
   Aprendizado de como fazer requisições assíncronas e buscar dados de servidores externos com AJAX, permitindo que a aplicação consuma APIs.
 
----
-
 ### Tecnologias Utilizadas 🚀
 
 - JavaScript
