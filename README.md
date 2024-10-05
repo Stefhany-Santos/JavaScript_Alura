@@ -1,8 +1,6 @@
 # Curso de JavaScript: Programando na Linguagem da Web
 
-Este repositório contém os projetos e materiais desenvolvidos durante o curso **"JavaScript: Programando na Linguagem da Web"** da Alura.
-
-## O que foi aprendido 📚
+### O que foi aprendido 📚
 
 - ⚡ **Entendimento da Linguagem JavaScript**  
   Compreensão do funcionamento dessa popular linguagem no mercado de desenvolvimento web e suas aplicações práticas.
